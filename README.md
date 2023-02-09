@@ -1,5 +1,7 @@
 ### Hi there 👋
  - I'm a hobbyist C# developer
+ - Visitor Count:
+ - ![Image](https://profile-counter.glitch.me/4UPanElektryk/count.svg)
 <!--
 **4UPanElektryk/4UPanElektryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
