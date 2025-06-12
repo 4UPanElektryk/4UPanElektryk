@@ -3,7 +3,7 @@
  - 🎓 Currently in High School learning Software Engineering
  - 🖥️ Rocking the Server + TypeScript + SCSS Software Stack
  - 🤔 I’m learning Ollama and how to utilise LLMs
- - ⚡ Fun fact: I first Started Learning Programming in 2013
+ - ⚡ Fun fact: I first started learning programming in 2013
  - 📫 How to reach me: @4upanelektryk on Discord
 
 Some Stats:
